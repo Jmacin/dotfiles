@@ -1,0 +1,9 @@
+[user]
+	name = Justin
+	email = jmacin@seas.upenn.edu
+[color]
+	ui = true
+[push]
+	default = simple
+[alias]
+	ci = commit

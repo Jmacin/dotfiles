@@ -1,0 +1,1 @@
+" Recently I switched from a partition on an older laptop to a virtual machine on a newer one. For these assignments, in order to not have to reconfigure vim again, I have been using Sublime-Text. Therefore I don't have a .vimrc file to show. Justin MacIntosh
